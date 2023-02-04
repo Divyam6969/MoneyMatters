@@ -25,17 +25,6 @@ Our financial website provides you with a comprehensive range of financial tools
 
 
 
-  ### BUILT WITH
-
-While developing our financial website, we use a combination of the following web development tools and technologies:
-
-* [![React][React.js]][React-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-
-By using these industry-standard tools and technologies, we can ensure that our financial website is fast, secure, and easy to use.
-
-
-
 ## USAGE
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
