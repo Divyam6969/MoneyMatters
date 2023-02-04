@@ -29,17 +29,12 @@ Our financial website provides you with a comprehensive range of financial tools
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+While developing our financial website, we use a combination of the following web development tools and technologies:
 
-* [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
 
+By using these industry-standard tools and technologies, we can ensure that our financial website is fast, secure, and easy to use.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
