@@ -41,9 +41,9 @@ Thank you for choosing our financial website as your resource for managing your 
 <!-- TEAM MEMBERS -->
 ## TEAM MEMBERS
 
-DIVYAM MALIK<br>
-KANISHK BEHL<br>
-ABHINANDAN SHARMA<br>
-KARAN CHHABRA<br>
+<a href="http://www.github.com/Divyam6969">DIVYAM MALIK</a>
+<a href="https://github.com/kanishkbehl">KANISHK BEHL</a>
+<a href="https://github.com/Abhinandan2003">ABHINANDAN SHARMA</a>
+<a href="https://github.com/Karan-TIET">KARAN CHHABRA</a>
 
 
