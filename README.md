@@ -12,44 +12,16 @@
 <h3 align="center">Earning is a New Skill! 🤩</h3>
 <br>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## FEATURES OF MONEY MATTERS
 
 Our financial website provides you with a comprehensive range of financial tools and resources to help you manage your finances effectively. From financial calculators and market analysis to personal finance tips and secure account management, our website is designed to empower you to make informed financial decisions and achieve your financial goals. Our team is dedicated to providing you with the best experience possible, and we are always available to answer any questions or concerns you may have. Get started today and take control of your financial future!
 
-->🤑Financial calculators for budgeting, savings, loans, and investments.
-->🤩Up-to-date financial news and market analysis.
-->⚡️Personal finance tips and advice.
-->💻Secure online account management.
-->🦋Financial tracking and goal-setting tools.
+->🤑Financial calculators for budgeting, savings, loans, and investments.<br>
+->🤩Up-to-date financial news and market analysis.<br>
+->⚡️Personal finance tips and advice.<br>
+->💻Secure online account management.<br>
+->🦋Financial tracking and goal-setting tools.<br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
