@@ -1,6 +1,21 @@
 <h1 align= "center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"><br>MONEY MATTERS</h1>
 
+<h2>Installation</h2>
+<p>To run the website locally, you will need to have Node.js and npm installed. Once you have those, you can clone the repository and run the following commands:</p>
+<pre>
+npm install
+npm start
+</pre>
+<p>This will start a local development server and you can access the website at http://localhost:3000</p>
 
+<h2>Contributing</h2>
+<p>If you would like to contribute to the project, please fork the repository and make a pull request. Any contributions, whether they are bug fixes or new features, are welcome.</p>
+
+<h2>License</h2>
+<p>This project is licensed under the MIT License. See the <a href="LICENSE.txt">LICENSE</a> file for details.</p>
+
+<h2>Contact</h2>
+<p>If you have any questions or need help with the website, please feel free to reach out to me.</p>
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
