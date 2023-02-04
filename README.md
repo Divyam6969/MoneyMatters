@@ -1,4 +1,6 @@
 <h1 align= "center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"><br> TEAM CAPYBARAS</h1>
+
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -6,20 +8,9 @@
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 </div>
-<h3 align="center">Earning is a New Skill 🤩</h3>
+
+<h3 align="center">Earning is a New Skill! 🤩</h3>
 <br>
-
-## Features
-
-->🤑Financial calculators for budgeting, savings, loans, and investments.<br>
-->🤩Up-to-date financial news and market analysis.<br>
-->⚡️Personal finance tips and advice.<br>
-->💻Secure online account management.<br>
-->🦋Financial tracking and goal-setting tools.
-
-
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -50,20 +41,15 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## FEATURES OF MONEY MATTERS
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Our financial website provides you with a comprehensive range of financial tools and resources to help you manage your finances effectively. From financial calculators and market analysis to personal finance tips and secure account management, our website is designed to empower you to make informed financial decisions and achieve your financial goals. Our team is dedicated to providing you with the best experience possible, and we are always available to answer any questions or concerns you may have. Get started today and take control of your financial future!
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+->🤑Financial calculators for budgeting, savings, loans, and investments.
+->🤩Up-to-date financial news and market analysis.
+->⚡️Personal finance tips and advice.
+->💻Secure online account management.
+->🦋Financial tracking and goal-setting tools.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
