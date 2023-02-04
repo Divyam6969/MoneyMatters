@@ -1,2 +1,7 @@
 # MoneyMatters
-A all-round website for money management
+Team Name: The Capybaras
+Team members: 
+Divyam Malik
+Karan Chhabra
+Abhinandan Sharma
+Kanishk Behl
