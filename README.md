@@ -25,7 +25,7 @@ Our financial website provides you with a comprehensive range of financial tools
 
 
 
-### Built With
+  ### BUILT WITH
 
 While developing our financial website, we use a combination of the following web development tools and technologies:
 
@@ -36,13 +36,13 @@ By using these industry-standard tools and technologies, we can ensure that our 
 
 
 
-## Usage
+## USAGE
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 
 <!-- LICENSE -->
-## License
+## LICENSE
 
 The information and tools provided on this website are for educational and informational purposes only and do not constitute financial or investment advice. Please consult a financial advisor for personalized advice.
 
