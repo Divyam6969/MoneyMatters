@@ -25,19 +25,6 @@ Our financial website provides you with a comprehensive range of financial tools
 
 
 
-## USAGE
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-
-<!-- LICENSE -->
-## LICENSE
-
-The information and tools provided on this website are for educational and informational purposes only and do not constitute financial or investment advice. Please consult a financial advisor for personalized advice.
-
-Thank you for choosing our financial website as your resource for managing your finances. We are committed to helping you achieve your financial goals and empower your financial future
-
-
 <!-- TEAM MEMBERS -->
 ## TEAM MEMBERS
 
