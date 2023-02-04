@@ -5,9 +5,9 @@
 
 ## Features
 
-->Financial calculators for budgeting, savings, loans, and investments.
-->Up-to-date financial news and market analysis.
-->Personal finance tips and advice.
-->Secure online account management.
+->Financial calculators for budgeting, savings, loans, and investments.<br>
+->Up-to-date financial news and market analysis.<br>
+->Personal finance tips and advice.<br>
+->Secure online account management.<br>
 ->Financial tracking and goal-setting tools.
 
