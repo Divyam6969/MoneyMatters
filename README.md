@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="100" height="100">
   </a>
 </div>
 
@@ -41,9 +41,9 @@ Thank you for choosing our financial website as your resource for managing your 
 <!-- TEAM MEMBERS -->
 ## TEAM MEMBERS
 
-DIVYAM MALIK<br>
-KANISHK BEHL<br>
-ABHINANDAN SHARMA<br>
-KARAN CHHABRA<br>
+<a href="http://www.github.com/Divyam6969">DIVYAM MALIK</a><br>
+<a href="https://github.com/kanishkbehl">KANISHK BEHL</a><br>
+<a href="https://github.com/Abhinandan2003">ABHINANDAN SHARMA</a><br>
+<a href="https://github.com/Karan-TIET">KARAN CHHABRA</a><br>
 
 
