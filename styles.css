@@ -1,0 +1,193 @@
+:root {
+    --red: hsl(0, 78%, 62%);
+    --cyan: hsl(180, 62%, 55%);
+    --orange: hsl(34, 97%, 64%);
+    --blue: hsl(212, 86%, 64%);
+    --varyDarkBlue: hsl(234, 12%, 34%);
+    --grayishBlue: hsl(229, 6%, 66%);
+    --veryLightGray: hsl(0, 0%, 98%);
+    --weight1: 200;
+    --weight2: 400;
+    --weight3: 600;
+}
+
+body {
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--veryLightGray);
+}
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+h1:first-of-type {
+    font-weight: var(--weight1);
+    color: var(--varyDarkBlue);
+
+}
+
+h1:last-of-type {
+    color: var(--varyDarkBlue);
+}
+
+@media (max-width: 400px) {
+    h1 {
+        font-size: 1.5rem;
+    }
+}
+
+.header {
+    text-align: center;
+    line-height: 0.8;
+    margin-bottom: 50px;
+    margin-top: 100px;
+}
+
+.header p {
+    margin: 0 auto;
+    line-height: 2;
+    color: var(--grayishBlue);
+}
+
+
+.box p {
+    color: var(--grayishBlue);
+}
+
+.box {
+    border-radius: 5px;
+    box-shadow: 0px 30px 40px -20px var(--grayishBlue);
+    padding: 30px;
+    margin: 20px;  
+}
+
+img {
+    float: right;
+}
+
+@media (max-width: 450px) {
+    .box {
+        height: 200px;
+    }
+}
+
+@media (max-width: 950px) and (min-width: 450px) {
+    .box {
+        text-align: center;
+        height: 180px;
+    }
+}
+
+.cyan {
+    border-top: 3px solid var(--cyan);
+}
+.red {
+    border-top: 3px solid var(--red);
+}
+.blue {
+    border-top: 3px solid var(--blue);
+}
+.orange {
+    border-top: 3px solid var(--orange);
+}
+
+h2 {
+    color: var(--varyDarkBlue);
+    font-weight: var(--weight3);
+}
+
+
+@media (min-width: 950px) {
+    .row1-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .row2-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .box-down {
+        position: relative;
+        top: 150px;
+    }
+    .box {
+        width: 20%;
+     
+    }
+    .header p {
+        width: 30%;
+    }
+    
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+  /*   background-color:blue; */
+  }
+  .card {
+    overflow:hidden;
+  }
+  h4 {
+  font-size: 26px;
+  margin-bottom: 0;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #333;
+  }
+  
+  .card-text {
+    color: #333;
+  }
+  
+  .bg-intro {
+    background:url("https://blueoasisdive.com/wp-content/uploads/2017/10/introdive.jpg") no-repeat center center;
+    background-size:cover
+  }
+  
+  .bg-scuba {
+    background:url("https://blueoasisdive.com/wp-content/uploads/2017/10/You-can-do-it.jpg") no-repeat center center;
+    background-size:cover
+  }
+  
+  .bg-openwater {
+      background:url("https://blueoasisdive.com/wp-content/uploads/2017/10/Open-Water-Course.jpg") no-repeat top center;
+    background-size:cover
+  }
+  
+  .bg-elearning {
+      background:url("https://blueoasisdive.com/wp-content/uploads/2017/10/E-learning-anywhere.jpg") no-repeat top center;
+    background-size:cover
+  }
+  
+  .pricing ul {
+    list-style-type: none;
+  }
+  .pricing ul li:before {
+   font-family: 'FontAwesome';
+  content: '\f00c';
+  margin:0 5px 0 -15px;
+  color: #f00;
+  
+  }
+  
+  .pricing {
+  /*   border: 1px solid gray; */
+    box-shadow: 0 4px 12px rgba(0,0,0,.05), 0 2px 6px rgba(0,0,0,.15);
+  }
+  
+  @media (max-width:756px) {
+    .col-md-4 {
+      height:300px;
+      overflow:hidden;
+      padding-left:1rem;
+      padding-right:1rem;
+    }
+  }
