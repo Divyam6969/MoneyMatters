@@ -1,6 +1,12 @@
+<h1 align= "center">Team Name: The Capybaras</h1>
+<!-- TEAM MEMBERS -->
+## TEAM MEMBERS
 
-<h1 align= "center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"><br>MONEY MATTERS</h1>
-
+DIVYAM MALIK<br>
+KANISHK BEHL<br>
+ABHINANDAN SHARMA<br>
+KARAN CHHABRA<br>
+<h1 align= "center">Project Name: Money Matters</h1>
 <h2>Installation</h2>
 <p>To run the website locally, you will need to have Node.js and npm installed. Once you have those, you can clone the repository and run the following commands:</p>
 <pre>
@@ -19,6 +25,8 @@ npm start
 <p>If you have any questions or need help with the website, please feel free to reach out to me.</p>
 <!-- PROJECT LOGO -->
 <br />
+
+
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="logo.png" alt="Logo" width="80" height="80">
@@ -41,11 +49,5 @@ Our financial website provides you with a comprehensive range of financial tools
 
 
 
-<!-- TEAM MEMBERS -->
-## TEAM MEMBERS
 
-DIVYAM MALIK<br>
-KANISHK BEHL<br>
-ABHINANDAN SHARMA<br>
-KARAN CHHABRA<br>
 
