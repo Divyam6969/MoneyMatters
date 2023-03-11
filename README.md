@@ -3,9 +3,9 @@
 ## TEAM MEMBERS
 
 DIVYAM MALIK<br>
-KANISHK BEHL<br>
+ROHAN GULATI<br>
 ABHINANDAN SHARMA<br>
-KARAN CHHABRA<br>
+
 <h1 align= "center">Project Name: Money Matters</h1>
 <h2>Installation</h2>
 <p>To run the website locally, you will need to have Node.js and npm installed. Once you have those, you can clone the repository and run the following commands:</p>
